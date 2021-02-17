@@ -60,6 +60,7 @@ h4 {
   display: inline-block;
   border-radius: 8px;
   box-shadow: 4px 4px 5px rgba(0,0,230,0.1);
+  transition: all .5s;
 }
 
 #btn-link:hover {
@@ -82,6 +83,7 @@ h4 {
 #list-inline > li > a > i {
   font-size: 40px;
   color: rgb(140, 190, 240);
+  transition: all .5s;
 }
 
 #list-inline > li > a > i:hover {
