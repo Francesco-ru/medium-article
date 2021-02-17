@@ -1,8 +1,8 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 body {
-  background-color: rgb(60, 60, 60);
-  font-family: 'Open sans', sans-serif;
+  background-color: rgb(220, 220, 220);
+  font-family: 'Poppins', serif;
   font-weight: 400;
   color: rgb(70, 70, 70);
   font-size: 18px;
@@ -65,7 +65,7 @@ h4 {
 #btn-link:hover {
   background-color: white;
   color: rgb(110,120,230);
-  font-size: 22px;
+  font-size: 19px;
 }
 
 #list-inline {
@@ -81,11 +81,11 @@ h4 {
 
 #list-inline > li > a > i {
   font-size: 40px;
-  color: rgb(200, 200, 230);
+  color: rgb(140, 190, 240);
 }
 
 #list-inline > li > a > i:hover {
-  font-size: 45px;
+  font-size: 41px;
   color: rgb(90, 90, 90);
 }
 
