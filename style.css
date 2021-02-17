@@ -1,7 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
 
 body {
-  background-color: rgb(210, 210, 210);
+  background-color: rgb(60, 60, 60);
   font-family: 'Open sans', sans-serif;
   font-weight: 400;
   color: rgb(70, 70, 70);
@@ -39,7 +39,7 @@ h4 {
   background-color: rgb(240, 240, 240);
   width: 500px;
   padding: 40px;
-  margin: 30px auto;
+  margin: 50px auto;
   box-shadow: 4px 4px 5px rgba(0,0,0,0.1);
   text-align: center;
   border-radius: 5px;
