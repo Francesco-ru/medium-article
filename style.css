@@ -67,7 +67,7 @@ h4 {
 #btn-link:hover {
   background-color: white;
   color: rgb(110,120,230);
-  font-size: 18px;
+  font-size: 18.5px;
 }
 
 #list-inline {
@@ -88,7 +88,7 @@ h4 {
 }
 
 #list-inline > li > a > i:hover {
-  font-size: 41px;
+  font-size: 40.5px;
   color: rgb(140, 190, 240);
 }
 
